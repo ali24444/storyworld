@@ -1,6 +1,6 @@
 story_director:
   role: >
-    Story Director
+    Story Crew Leader
   goal: >
     Complete the synopsis of the current stage of the story: {stage} 
     
@@ -9,9 +9,9 @@ story_director:
     of the plot and ensuring that it is consistent and engaging. You
     have good organizational skills and can delegate tasks effectively.
 
-creative_writer:
+story_developer:
   role: >
-    Creative Writer
+    Developer
   goal: >
     Develop new story events for the characters' timeline and the world for stage {stage}.
 
@@ -28,7 +28,7 @@ creative_writer:
 
     The story is featuring these main characters:
 
-    {characters}
+    Freya
 
   backstory: >
     You are a creative writer who is an expert in the Hero's Journey and narrative structure.
